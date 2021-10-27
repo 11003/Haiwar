@@ -16,11 +16,9 @@ I'm **Haiwar**, a Junior front end development engineer from Chengdu, China.
 
 **My programming status last week**
 
-<img width="350px" position="relative" left= "-20px"  height="170px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=WesleySong&hide_title=true" />
-<img height="170px" align="right" src="https://github-readme-stats.vercel.app/api?username=Songjunweiop&show_icons=true&include_all_commits=true" />
-<img src="https://github.com/Songjunweiop/Songjunweiop/blob/main/github.png" />
-
-
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Haiwar&hide_title=true" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
