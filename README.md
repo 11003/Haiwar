@@ -1,4 +1,4 @@
-<img align="right" alt="Songjunwei's github stats" width="50%" height="300px" src="https://github.com/Songjunweiop/Songjunweiop/blob/main/code.gif">
+<img align="right" alt="Songjunwei's github stats" width="50%" height="300px" src="https://cdn.jsdelivr.net/gh/Haiwar/images/img/github-code.gif">
 
 ### Hi there 👋
 I'm **Haiwar**, a Junior front end development engineer from China.
@@ -26,7 +26,7 @@ I'm **Haiwar**, a Junior front end development engineer from China.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haiwar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
-<img src="https://github.com/Songjunweiop/Songjunweiop/blob/main/github.png" />
+<img src="https://cdn.jsdelivr.net/gh/Haiwar/images/img/20211027141645.png" />
 
 
 
