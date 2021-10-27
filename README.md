@@ -17,7 +17,7 @@ I'm **Haiwar**, a Junior front end development engineer from Chengdu, China.
 **My programming status last week**
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Haiwar&hide_title=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/Songjunweiop/Songjunweiop/blob/main/github.png" />
 
 
 
