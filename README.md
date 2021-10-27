@@ -5,6 +5,7 @@ I'm **Haiwar**, a Junior front end development engineer from China.
 
 - 🌱 I’m currently using Vue
 - 💬 In my blog: [Haiawr BLOG](http://blog.musclewiki.cn/)
+- 📺 Welcome to follow my bilibili: [Bilibili](http://blog.musclewiki.cn/)
 - 📫 How to reach me: <814029073@qq.com>
 - 💞 Have a girlfriend fortunately
 
