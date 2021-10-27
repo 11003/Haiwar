@@ -1,7 +1,7 @@
 <img align="right" alt="Songjunwei's github stats" width="50%" height="300px" src="https://github.com/Songjunweiop/Songjunweiop/blob/main/code.gif">
 
 ### Hi there 👋
-I'm **Haiwar**, a Junior front end development engineer from Chengdu, China.
+I'm **Haiwar**, a Junior front end development engineer from China.
 
 - 🌱 I’m currently using Vue
 - 💬 In my blog: [Haiawr BLOG](http://blog.musclewiki.cn/)
