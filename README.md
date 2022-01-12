@@ -15,9 +15,3 @@ I'm **Haiwar**, a Junior front end development engineer from China.
 **My programming status last week**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haiwar&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![snake](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/output/github-contribution-grid-snake.svg)
-
-
-
-
