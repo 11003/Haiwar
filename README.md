@@ -1,5 +1,3 @@
-<img align="right" alt="Songjunwei's github stats" width="50%" height="300px" src="https://cdn.jsdelivr.net/gh/Haiwar/images/img/github-code.gif">
-
 ### Hi there 👋
 I'm **Haiwar**, a Junior front end development engineer from China.
 
