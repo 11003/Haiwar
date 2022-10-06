@@ -2,7 +2,7 @@
 I'm **Haiwar**, a Junior front end development engineer from China.
 
 - 🌱 I’m currently using Vue
-- 💬 In my blog: [Haiawr BLOG](http://blog.musclewiki.cn/)
+- 💬 In my blog: [Haiwar BLOG](http://blog.musclewiki.cn/)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:18px">🖥</span>
